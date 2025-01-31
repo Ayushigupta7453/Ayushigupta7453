@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushigupta7453" alt="ayushigupta7453" /></a> </p>
 
-- 🔭 I’m currently working with **Tann Mann Gaadi Foundation**
+- 🔭 I’m currently working with **TeachToTech**
 
 - 🌱 I’m currently learning **AI and ML technologies**
 
